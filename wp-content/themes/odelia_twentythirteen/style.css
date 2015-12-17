@@ -1,0 +1,21 @@
+
+/*
+Theme Name: Odelia_Twenty Thirteen
+Description: this is a child theme of the twenty thirteen.
+Author: Odelia
+Version: 1.0
+Template: twentythirteen
+*/
+
+@import url('../twentythirteen/style.css');
+
+
+.site-title {
+    font-size: 40px;
+}
+
+
+
+h1 {
+	font-family: 'Lobster', 'cursive'; font-weight: 400; 
+}
